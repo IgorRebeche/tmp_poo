@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "igor rebeche rosa",
+      "email": "igorrebeche@gmail.com",
+      "password": "dwds"
+    },
+    {
+      "name": "Roberto",
+      "email": "Roberto@gmail.com",
+      "password": "dwds",
+      "id": 2
+    }
+  ]
+}
